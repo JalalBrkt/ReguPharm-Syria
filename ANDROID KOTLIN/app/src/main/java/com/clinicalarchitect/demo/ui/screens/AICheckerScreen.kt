@@ -208,7 +208,7 @@ fun AICheckerScreen() {
                 },
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(vertical = 24.dp, bottom = 40.dp)
+                    .padding(top = 24.dp, bottom = 40.dp)
                     .height(50.dp),
                 colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF4F6F8)),
                 shape = RoundedCornerShape(8.dp)
